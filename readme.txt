@@ -1,4 +1,8 @@
 Ningzicheng is very handsome.
 But he is active, too.
 So£¬fa,fjaif
-Jfjk
+<<<<<<< HEAD
+jfjfj
+=======
+Fjjfl
+>>>>>>> feature1
